@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/thanos-bingo/static/css/main.39a4f6ba.css",
+    "main.js": "/thanos-bingo/static/js/main.0b929c03.js",
+    "static/media/thanos.gif": "/thanos-bingo/static/media/thanos.80b0ba6fe6b1c6d9d437.gif",
+    "static/media/winner-song.mp3": "/thanos-bingo/static/media/winner-song.a4740a27c3bf8ab24023.mp3",
+    "static/media/stone2.png": "/thanos-bingo/static/media/stone2.23793ab814e031486bee.png",
+    "static/media/stone3.png": "/thanos-bingo/static/media/stone3.6c077e9c4f896332d0e5.png",
+    "static/media/stone4.png": "/thanos-bingo/static/media/stone4.69c5c21d422c5641bdff.png",
+    "static/media/stone1.png": "/thanos-bingo/static/media/stone1.1f08746bff02347ed855.png",
+    "static/media/stone5.png": "/thanos-bingo/static/media/stone5.0506dabd5b200a13c396.png",
+    "static/media/select-sound.mp3": "/thanos-bingo/static/media/select-sound.f91f4330ce8905ce9269.mp3",
+    "index.html": "/thanos-bingo/index.html",
+    "main.39a4f6ba.css.map": "/thanos-bingo/static/css/main.39a4f6ba.css.map",
+    "main.0b929c03.js.map": "/thanos-bingo/static/js/main.0b929c03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a4f6ba.css",
+    "static/js/main.0b929c03.js"
+  ]
+}
