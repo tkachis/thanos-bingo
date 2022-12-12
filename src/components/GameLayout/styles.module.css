@@ -1,0 +1,9 @@
+.game-layout {
+  position: relative;
+  display: flex;
+  height: 100vh;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

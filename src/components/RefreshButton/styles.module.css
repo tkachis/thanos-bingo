@@ -1,0 +1,20 @@
+.refresh-button {
+  color: #8850EB;
+  padding: 8px;
+  border-color: #8850EB;
+  font-size: 16px;
+  transition: 0.2s;
+  background-color: transparent;
+  cursor: pointer;
+  width: 180px;
+  margin-top: 32px;
+  z-index: 10;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .refresh-button:hover {
+    color: #fff;
+    background: #8850EB;
+    box-shadow: 0 0 10px #8850EB, 0 0 30px #8850EB, 0 0 60px #8850EB;
+  }
+}

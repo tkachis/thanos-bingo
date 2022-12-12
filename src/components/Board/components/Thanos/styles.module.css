@@ -1,0 +1,17 @@
+.thanos {
+  position: absolute;
+  height: 70vh;
+  top: -1000px;
+  z-index: 1;
+  transition: 2s ease-in-out;
+}
+
+.thanos--shown {
+  top: 20vh;
+}
+
+@media screen and (max-width: 560px) {
+  .thanos {
+    height: 50vh;
+  }
+}
